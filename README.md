@@ -1,4 +1,5 @@
 - PR1
+- PR2
 
 # Detecting and resolving dependency vulnerabilities in Gradle projects
 
